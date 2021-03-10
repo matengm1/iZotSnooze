@@ -1,2 +1,2 @@
-# izotsnooze
-# Configured for ScreenSizes of iPhone 11 of larger
+# iZotSnooze
+## Configured for ScreenSizes of iPhone 11 of larger
