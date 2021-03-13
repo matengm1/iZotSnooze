@@ -1,6 +1,6 @@
 # **iZotSnooze**
-##### Please note the commits does not accurately reflects the tasks distribution that were referenced on the report.Furthermore, please check the branches for specific commits in the case that you do check them. 
-##### While GitHub was originally intended as version control of the mobile app development, there were difficulties merging the numerous files within a workspace, thereby compressing them into zip and working on it indivdually was more convenient.
+##### Please note the commits does not accurately reflects the tasks distribution that were referenced on the report. Furthermore, please reference the branches for specific commits in the case that you do check them. 
+##### While GitHub was originally intended as version control of the mobile app development, there were difficulties merging the numerous files within a workspace; thereby, compressing them into zip and working on it indivdually was more convenient.
 
 
 # To run the ios app...
